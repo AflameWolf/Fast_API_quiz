@@ -27,4 +27,4 @@ docker exec fast_api_app python -c 'import models; models.create_table()'
 ```
 ___
 ## Использование:
-отпправте POST запрос `http://localhost:Ваш порт/question/?quantity=количество вопросов` используя Postman или `http://localhost:ваш порт/docs`
+Отправте POST запрос `http://localhost:Ваш порт/question/?quantity=количество вопросов` используя Postman или `http://localhost:ваш порт/docs`.
